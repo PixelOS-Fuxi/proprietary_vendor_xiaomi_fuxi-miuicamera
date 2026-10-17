@@ -9,5 +9,8 @@ PRODUCT_PACKAGES += \
     libcamera_algoup_jni.xiaomi \
     libcamera_mianode_jni.xiaomi \
     libmicampostproc_client \
+    libquickcamera \
     vendor.xiaomi.hardware.campostproc@1.0_system \
+    vendor.xiaomi.hardware.quickcamera@1.0 \
+    vendor.xiaomi.hardware.quickcamera@1.0-impl \
     MiuiCamera
